@@ -1,4 +1,4 @@
-# CODSOFT_C-Programming_Internship
+# CODSOFT C++ Programming Internship
 <b>1. Tic-Tac-Toe Game</b>
 
 A console-based Tic-Tac-Toe game that allows two players to play against each other.
